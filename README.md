@@ -7,4 +7,4 @@
 
 ## 📈 LeetCode Статистика
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/GlREg6bz8N?theme=dark&font=baloo)](https://leetcode.com/u/GlREg6bz8N/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bk-ru?theme=dark&font=baloo)](https://leetcode.com/u/GlREg6bz8N/)
