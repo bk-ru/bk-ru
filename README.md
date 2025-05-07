@@ -5,4 +5,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk-ru&layout=compact&theme=tokyonight" height="170">
 </p>
 
-[![Batyr LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Batyr&theme=dark)](https://github.com/bk-ru/leetcode-stats)
+[![Batyr LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GlREg6bz8N&theme=dark)](https://github.com/bk-ru/leetcode-stats)
