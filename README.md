@@ -7,5 +7,4 @@
 
 ## 📈 LeetCode Статистика
 
-[![My LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=GlREg6bz8N&theme=dark)](https://leetcode.com/u/GlREg6bz8N/)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GlREg6bz8N?theme=dark&font=baloo)](https://leetcode.com/u/GlREg6bz8N/)
